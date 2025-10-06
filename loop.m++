@@ -1,0 +1,9 @@
+19 P       # push 19
+MSET 0     # store in memory[0] (or use a variable system)
+80 P       # push 80
+MSET 1     # store in memory[1]
+MGET 0     # push first value back
+MGET 1     # push second value back
++          # add them
+MSET 2     # store result in memory[2]
+# Sum is : $2   # print memory[2] as variable

@@ -36,7 +36,7 @@ Think of it as your **own assembly-like playground** — simple, powerful, and f
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/yourusername/mpp-language.git
+   git clone https://github.com/Andi012-wq/MPP-a-new-programming-language.git
    cd mpp-language
    ```
 
@@ -178,3 +178,4 @@ Developed by **Andi Hoti**
 💬 “A minimal language for maximal creativity.”
 
 ⭐ If you like M++, give it a star on GitHub and share your own `.m++` projects!
+
